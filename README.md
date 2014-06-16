@@ -75,8 +75,8 @@ Binary search trees
     * remove: n
 
 ### Successor
-* Has right child : **lleftmost node**l of **right subtree**
-* No right child : **lGo leftmost**l then **go right once**
+* Has right child : **leftmost node** of **right subtree**
+* No right child : **Go leftmost** then **go right once**
 
 ### Implementation
 
