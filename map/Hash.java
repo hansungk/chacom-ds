@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;
+//import java.io.*;
 
 // Note that readWords uses ".//words3.txt" as the dictionary file.
 // Also note that readWords is called statically.
