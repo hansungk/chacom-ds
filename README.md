@@ -76,7 +76,7 @@ Binary search trees
 
 ### Successor
 * Has right child : **leftmost node** of **right subtree**
-* No right child : **Go leftmost** then **go right once**
+* No right child : **go leftmost** then **go right once**
 
 ### Implementation
 
