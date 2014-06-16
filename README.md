@@ -2,6 +2,7 @@ Stack
 =====
 
 LIFO(Last in first out)
+
 Parenthesis matching
 
 ### Implementation
@@ -16,6 +17,7 @@ Queue
 =====
 
 FIFO(First in first out)
+
 Bus stop
 
 ### Implementation
@@ -50,9 +52,11 @@ Binary trees
 ------------
 
 * Height
+
 Height = maximum depth
 
 * Level
+
 Level = depth
 
 * Traversal
