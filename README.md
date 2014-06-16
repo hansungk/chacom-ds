@@ -75,12 +75,12 @@ Binary search trees
     * remove: n
 
 ### Successor
-* Has right child : *leftmost node* of *right subtree*
-* No right child : *Go leftmost* then *go right once*
+* Has right child : **lleftmost node**l of **right subtree**
+* No right child : **lGo leftmost**l then **go right once**
 
 ### Implementation
 
-* boolean add(Node x, E element) <!--Element and n seems equivalent-->
+* boolean add(Node x, E element) *Element and n seems equivalent*
 * boolean remove(Node x, int n)
 * contains(int n)
 
