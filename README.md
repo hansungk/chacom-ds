@@ -4,8 +4,7 @@ Stack
 LIFO(Last in first out)
 Parenthesis matching
 
-Implementation
---------------
+### Implementation
 * void push(E element)
 * E pop()
 * E top()
@@ -19,8 +18,7 @@ Queue
 FIFO(First in first out)
 Bus stop
 
-Implementation
---------------
+### Implementation
 * void enqueue(E element)
 * E dequeue()
 * E front()
@@ -29,8 +27,7 @@ Implementation
 Map
 ===
 
-Implementation
---------------
+### Implementation
 * V get(key)
 * V put(key, value)
 * V remove(key)
@@ -79,10 +76,9 @@ Binary search trees
 
 ### Successor
 * Has right child : *leftmost node* of *right subtree*
-* No right child : *Go leftmost* then *Go right once*
+* No right child : *Go leftmost* then *go right once*
 
-Implementation
---------------
+### Implementation
 
 * boolean add(Node x, E element) <!--Element and n seems equivalent-->
 * boolean remove(Node x, int n)
