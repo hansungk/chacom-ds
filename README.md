@@ -1,0 +1,1 @@
+/home/stephen/doc/notes/lec12.markdown
