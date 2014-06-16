@@ -88,9 +88,9 @@ Binary search trees
 * boolean remove(Node x, int n)
 * contains(int n)
 
-Remove : using in-order successor
-??? How to build a spell checker
-??? What is a set exactly
+Remove : using in-order successor  
+??? How to build a spell checker  
+??? What is a set exactly  
 
 
 Hash Tables
@@ -121,7 +121,7 @@ Collision handling methods
     * Linear probing
         * May result to longer probe seqs
 
-??? Load factor
+??? Load factor  
 
 ### Rehashing
 Good strategy is doubling.
